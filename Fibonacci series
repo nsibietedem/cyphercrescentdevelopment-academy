@@ -1,0 +1,15 @@
+Start
+Declare variables numberOfValues, firstValue,secondValue, temp,iterations
+Initialize the variables,temp=0,i=2
+Input firstValue, secondValue, numberOfValues
+Enter the number of terms of Fibonacci series to be printed
+Print FirstValue and secondValue
+Use loop for the following steps
+  while i is less than numberOfVAlues
+      -> Add the first value and second value and store in temp
+      -> Equate the secondValue to the firstValue
+      -> Equate the value of temp to secondValue
+      -> increase value of i each time by 1
+      -> Print the value of temp
+  End the while loop
+End
