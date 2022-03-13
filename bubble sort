@@ -1,0 +1,21 @@
+Start
+Declare variables newArray, i, j ,temp,n
+declare boolean variable swap
+Input the values of the array
+Use loop for the following steps
+  -> for i is equal to 0 to i less than the value n increament i
+       -> set swap to false
+       -> use loop for the following steps 
+       -> for j is equal to zero to i is less than n minus 1 increament j
+          -> use conditional statement for the following
+          -> if newArray[j] is greater than next value 
+            -> swap the two values
+            -> set swap to true
+          -> end condition statment
+          -> If swap equals to false 
+          -> break
+       -> End loop
+   -> End loop
+Print newArray       
+       
+            
