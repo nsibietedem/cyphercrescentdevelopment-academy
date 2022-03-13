@@ -1,0 +1,13 @@
+start
+declare variable number , convertedNumber, oldBase, newBase, remainder
+input the values for number, convertedNumber, oldbase, newBase
+if oldBase is greater than new base
+else 
+  -> while number is greater than zero
+    ->find the modulus of number from new base and store in remainder 
+    ->number is equal to number divided by new base 
+    convertedNumber remainder converted to string added to converted number
+    end loop
+end
+    
+    
